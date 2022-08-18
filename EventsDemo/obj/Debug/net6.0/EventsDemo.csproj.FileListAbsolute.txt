@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\DelegateDemo\EventsDemo\obj\Debug\net6.0\EventsDemo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DelegateDemo\EventsDemo\obj\Debug\net6.0\EventsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DelegateDemo\EventsDemo\obj\Debug\net6.0\EventsDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DelegateDemo\EventsDemo\obj\Debug\net6.0\EventsDemo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DelegateDemo\EventsDemo\obj\Debug\net6.0\EventsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DelegateDemo\EventsDemo\bin\Debug\net6.0\EventsDemo.exe
+C:\Users\Admin\source\repos\DelegateDemo\EventsDemo\bin\Debug\net6.0\EventsDemo.deps.json
+C:\Users\Admin\source\repos\DelegateDemo\EventsDemo\bin\Debug\net6.0\EventsDemo.runtimeconfig.json
+C:\Users\Admin\source\repos\DelegateDemo\EventsDemo\bin\Debug\net6.0\EventsDemo.dll
+C:\Users\Admin\source\repos\DelegateDemo\EventsDemo\bin\Debug\net6.0\EventsDemo.pdb
+C:\Users\Admin\source\repos\DelegateDemo\EventsDemo\obj\Debug\net6.0\EventsDemo.dll
+C:\Users\Admin\source\repos\DelegateDemo\EventsDemo\obj\Debug\net6.0\refint\EventsDemo.dll
+C:\Users\Admin\source\repos\DelegateDemo\EventsDemo\obj\Debug\net6.0\EventsDemo.pdb
+C:\Users\Admin\source\repos\DelegateDemo\EventsDemo\obj\Debug\net6.0\EventsDemo.genruntimeconfig.cache
+C:\Users\Admin\source\repos\DelegateDemo\EventsDemo\obj\Debug\net6.0\ref\EventsDemo.dll
